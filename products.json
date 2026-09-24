@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 45000,
+    "Stock": 5
+  },
+  {
+    "Name": "Mouse",
+    "Category": "Electronics",
+    "Price": 800,
+    "Stock": 15
+  },
+  {
+    "Name": "Keyboard",
+    "Category": "Electronics",
+    "Price": 1500,
+    "Stock": 10
+  },
+  {
+    "Name": "Notebook",
+    "Category": "School",
+    "Price": 100,
+    "Stock": 30
+  },
+  {
+    "Name": "Backpack",
+    "Category": "School",
+    "Price": 1200,
+    "Stock": 8
+  },
+  {
+    "Name": "Headphones",
+    "Category": "Electronics",
+    "Price": 2500,
+    "Stock": 12
+  },
+  {
+    "Name": "Pen",
+    "Category": "School",
+    "Price": 25,
+    "Stock": 50
+  }
+]

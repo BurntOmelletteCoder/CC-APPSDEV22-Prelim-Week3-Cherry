@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\bin\Debug\net10.0\Week3_Cherry.exe
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\bin\Debug\net10.0\Week3_Cherry.deps.json
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\bin\Debug\net10.0\Week3_Cherry.runtimeconfig.json
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\bin\Debug\net10.0\Week3_Cherry.dll
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\bin\Debug\net10.0\Week3_Cherry.pdb
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.dll
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\refint\Week3_Cherry.dll
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.pdb
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\Week3_Cherry.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Act-2 Mutiplication table\OneDrive\Documents\CC-APPSDEV22\Prelim\Week3_Cherry\obj\Debug\net10.0\ref\Week3_Cherry.dll

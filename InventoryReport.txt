@@ -1,0 +1,11 @@
+PRODUCT INVENTORY REPORT
+========================
+Laptop | Electronics | P45000 | Stock: 5
+Mouse | Electronics | P800 | Stock: 15
+Keyboard | Electronics | P1500 | Stock: 10
+Notebook | School | P100 | Stock: 30
+Backpack | School | P1200 | Stock: 8
+Headphones | Electronics | P2500 | Stock: 12
+Pen | School | P25 | Stock: 50
+========================
+Total Inventory Value: P295850
