@@ -1,0 +1,7 @@
+Laptop | Electronics | 48000 | Stock: 5
+Mouse | Electronics | 750 | Stock: 20
+Keyboard | Electronics | 1500 | Stock: 10
+Desk | Furniture | 5000 | Stock: 4
+Chair | Furniture | 2500 | Stock: 8
+Headphones | Electronics | 2500 | Stock: 12
+Monitor | Electronics | 8500 | Stock: 6
